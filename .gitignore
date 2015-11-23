@@ -1,6 +1,7 @@
 npm-debug.log
 !node_modules
 node_modules/*
+!node_modules/nodebb-theme-libreweb
 !node_modules/nodebb-theme-libreweb/*
 sftp-config.json
 config.json
